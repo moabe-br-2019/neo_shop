@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Smartphone Pro Max",
+      "subtitle": "Última geração com tecnologia avançada",
+      "description": "Smartphone premium com tela OLED de 6.7 polegadas, câmera tripla de 108MP, processador octa-core de alta performance e bateria de longa duração. Ideal para profissionais e entusiastas da tecnologia.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=500&h=500&fit=crop"
+      ],
+      "price": 1599.99,
+      "promotionalPrice": 1299.99
+    },
+    {
+      "id": 2,
+      "title": "Notebook Ultrabook",
+      "subtitle": "Performance e portabilidade em um só lugar",
+      "description": "Notebook ultra-fino com processador Intel i7 de 11ª geração, 16GB de RAM, SSD de 512GB e tela Full HD de 14 polegadas. Perfeito para trabalho e estudos, com até 12 horas de autonomia.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=500&h=500&fit=crop"
+      ],
+      "price": 2999.00,
+      "promotionalPrice": 2499.00
+    },
+    {
+      "id": 3,
+      "title": "Fones Wireless Premium",
+      "description": "Fones de ouvido sem fio com cancelamento ativo de ruído, drivers de 40mm para áudio cristalino e até 30 horas de reprodução. Conforto excepcional para uso prolongado.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=500&h=500&fit=crop"
+      ],
+      "price": 599.99,
+      "promotionalPrice": 399.99
+    },
+    {
+      "id": 4,
+      "title": "Smartwatch Fitness",
+      "subtitle": "Seu companheiro de saúde e fitness",
+      "description": "Relógio inteligente com monitoramento cardíaco 24/7, GPS integrado, resistência à água IP68 e mais de 100 modalidades esportivas. Bateria com duração de até 7 dias.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=500&h=500&fit=crop"
+      ],
+      "price": 799.00,
+      "promotionalPrice": 599.00
+    },
+    {
+      "id": 5,
+      "title": "Câmera Digital DSLR",
+      "subtitle": "Capture momentos com qualidade profissional",
+      "description": "Câmera DSLR com sensor APS-C de 24.2MP, sistema de foco automático de 45 pontos, gravação 4K e tela LCD articulada. Inclui lente 18-55mm para versatilidade completa.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?w=500&h=500&fit=crop"
+      ],
+      "price": 2299.99,
+      "promotionalPrice": 1899.99
+    },
+    {
+      "id": 6,
+      "title": "Monitor Gaming 4K",
+      "description": "Monitor gamer de 27 polegadas com resolução 4K UHD, taxa de atualização de 144Hz, tempo de resposta de 1ms e suporte HDR10. Ideal para gaming competitivo e trabalho criativo.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=500&h=500&fit=crop"
+      ],
+      "price": 1299.00,
+      "promotionalPrice": 999.00
+    }
+  ]
+}
